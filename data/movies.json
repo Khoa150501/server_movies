@@ -13,5 +13,37 @@
     "imageUrl": "https://product.hstatic.net/1000376556/product/_movie_story_mau_nobita_va_hon_dao_dieu_ki_cuoc_phieu_luu_cua_loai_thu_d20e0999196d4dda9d85fdeb18c6fdf4_1024x1024.jpg",
     "duration": "3 giờ 1 phút",
     "description": "One Piece (Đảo Hải Tặc) cập nhật"
+  },
+  {
+    "id": 3,
+    "title": "Naruto Shippuden",
+    "imageUrl": "https://wallpapercave.com/wp/wp8840621.jpg",
+    "duration": "24 phút mỗi tập",
+    "youtubeVideoId": "Wl7ay1Z5mkY",
+    "description": "Câu chuyện kể về hành trình của Naruto Uzumaki trong việc trở thành một ninja huyền thoại."
+  },
+  {
+    "id": 4,
+    "title": "Attack on Titan (Shingeki no Kyojin)",
+    "imageUrl": "https://www.theactionpixel.com/wp-content/uploads/2017/02/ATTACKONTITAN_POSTER.jpg",
+    "duration": "25 phút mỗi tập",
+    "youtubeVideoId": "MGRm4IzK1SQ",
+    "description": "Con người chống lại những Titan khổng lồ để giành lấy tự do và sự sống còn."
+  },
+  {
+    "id": 5,
+    "title": "My Hero Academia (Boku no Hero Academia)",
+    "imageUrl": "https://vignette.wikia.nocookie.net/dubbing9585/images/d/d2/My_Hero_Academia_Heroes_Rising.jpg/revision/latest?cb=20200419060653",
+    "duration": "24 phút mỗi tập",
+    "youtubeVideoId": "p-8DsU1n8Ys",
+    "description": "Câu chuyện xoay quanh Midoriya Izuku và hành trình trở thành anh hùng vĩ đại nhất thế giới."
+  },
+  {
+    "id": 6,
+    "title": "Demon Slayer (Kimetsu no Yaiba)",
+    "imageUrl": "https://wallpapers.com/images/hd/demon-slayer-logo-1a24ls17mwjaiji9.jpg",
+    "duration": "23 phút mỗi tập",
+    "youtubeVideoId": "U8Lxup5t8FM",
+    "description": "Hành trình của Tanjiro Kamado trong việc tiêu diệt quỷ và cứu em gái."
   }
 ]

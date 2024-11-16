@@ -5,6 +5,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
     "duration": "1 giờ 59 phút",
     "youtubeVideoId": "Bz7BKukEoaA",
+    "priceTicket": "99.000",
     "description": "Và trở thành Vua Hải Tặc hay không? Mời các bạn cùng đón xem nhé!"
   },
   {
@@ -12,15 +13,18 @@
     "title": "Doremon: Cuộc Phiêu Lưu Của Loài Thú",
     "imageUrl": "https://product.hstatic.net/1000376556/product/_movie_story_mau_nobita_va_hon_dao_dieu_ki_cuoc_phieu_luu_cua_loai_thu_d20e0999196d4dda9d85fdeb18c6fdf4_1024x1024.jpg",
     "duration": "3 giờ 1 phút",
-    "description": "One Piece (Đảo Hải Tặc) cập nhật"
+    "youtubeVideoId": "Bz7BKukEoaA",
+    "priceTicket": "99.000",
+    "description": "Nobita được mua cho một con bọ cánh cứng, Nobita đem nó đi đấu với Jaian nhưng lại bị thua nên Nobita nhờ Doraemon bắt cho mình một con khác để phục thù,trong lúc dò tìm bọ cánh cứng cho Nobita không may lại bắt dính loài khổng điểu cổ đại. Lo sợ khi đưa nó về thế giới cổ đại cũng sẽ diệt vong nên nhóm Doraemon đưa nó đến một nơi có tên là đảo Beregamondo. Ở đây nhóm bạn đã gặp người quản lý đảo, cô tiến sĩ Kelly. Do sơ suất nên Doraemon bị con khổng điểu lấy mất gậy lãng quên."
   },
   {
     "id": 3,
-    "title": "Naruto Shippuden",
+    "title": "Road to Ninja: Naruto the Movie",
     "imageUrl": "https://wallpapercave.com/wp/wp8840621.jpg",
     "duration": "24 phút mỗi tập",
     "youtubeVideoId": "Wl7ay1Z5mkY",
-    "description": "Câu chuyện kể về hành trình của Naruto Uzumaki trong việc trở thành một ninja huyền thoại."
+    "priceTicket": "99.000",
+    "description": "Sau cuộc chạm trán với mẹ mình trong trận chiến với Cửu Vĩ, Naruto Uzumaki đã trở lại Làng Lá. Cậu và những người còn lại trong Konoha 11, do Kakashi Hatake và Might Guy chỉ huy, đã đánh đuổi một nhóm White Zetsu đóng giả làm thành viên Akatsuki đã ngã xuống . Khi họ trở về, cha mẹ của mọi người quyết định giới thiệu con cái của họ để trở thành jonin, ngoại trừ Naruto vì cha mẹ cậu đã mất, và Sakura Haruno , người có cha mẹ là Kizashi và Mebuki phủ nhận khả năng của cô. Naruto bắt đầu cảm thấy chán nản vì không có cha mẹ khi lớn lên, khiến cậu nổi giận với Iruka Umino . Sakura, sau khi cãi nhau với Mebuki, sau đó sử dụng Naruto làm cái cớ để tránh cô. Chỉ còn lại một mình ở công viên, cả hai bị Tobi (lúc này họ tin rằng đó là Madara Uchiha ) đối mặt, kẻ tiến hành làm họ mù bằng một luồng sáng lớn trước khi bỏ trốn."
   },
   {
     "id": 4,
@@ -28,6 +32,7 @@
     "imageUrl": "https://www.theactionpixel.com/wp-content/uploads/2017/02/ATTACKONTITAN_POSTER.jpg",
     "duration": "25 phút mỗi tập",
     "youtubeVideoId": "MGRm4IzK1SQ",
+    "priceTicket": "99.000",
     "description": "Con người chống lại những Titan khổng lồ để giành lấy tự do và sự sống còn."
   },
   {
@@ -36,6 +41,7 @@
     "imageUrl": "https://vignette.wikia.nocookie.net/dubbing9585/images/d/d2/My_Hero_Academia_Heroes_Rising.jpg/revision/latest?cb=20200419060653",
     "duration": "24 phút mỗi tập",
     "youtubeVideoId": "p-8DsU1n8Ys",
+    "priceTicket": "99.000",
     "description": "Câu chuyện xoay quanh Midoriya Izuku và hành trình trở thành anh hùng vĩ đại nhất thế giới."
   },
   {
@@ -44,6 +50,7 @@
     "imageUrl": "https://wallpapers.com/images/hd/demon-slayer-logo-1a24ls17mwjaiji9.jpg",
     "duration": "23 phút mỗi tập",
     "youtubeVideoId": "U8Lxup5t8FM",
+    "priceTicket": "99.000",
     "description": "Hành trình của Tanjiro Kamado trong việc tiêu diệt quỷ và cứu em gái."
   }
 ]

@@ -1,0 +1,29 @@
+{
+  "news": [
+    {
+      "title": "Bộ phim 'Avatar 3' công bố ngày phát hành chính thức",
+      "image": "https://patrickgblog.wordpress.com/wp-content/uploads/2011/09/avatar-banner.jpg",
+      "description": "Phần tiếp theo của bom tấn 'Avatar' hứa hẹn sẽ mang lại trải nghiệm điện ảnh tuyệt vời."
+    },
+    {
+      "title": "Cháy vé với 'Avengers 5'",
+      "image": "https://ss-images.saostar.vn/w700/2019/04/18/5001704/avg12.jpg",
+      "description": "Marvel Studios bất ngờ công bố một siêu anh hùng mới sẽ xuất hiện trong phần tiếp theo của Avengers."
+    },
+    {
+      "title": "'John Wick 5' được xác nhận đang trong quá trình sản xuất",
+      "image": "https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2023/02/john-wick-4.jpg",
+      "description": "Keanu Reeves tiếp tục trở lại với vai diễn sát thủ huyền thoại trong phần mới nhất của series."
+    },
+    {
+      "title": "Những bộ phim đáng xem top 1?",
+      "image": "https://static.utop.vn/uploadsblog/richtexteditor/imagejpeg_573469052_20230822.jpeg",
+      "description": "'Oppenheimer' của Christopher Nolan đang là ứng cử viên sáng giá tại các giải thưởng điện ảnh."
+    },
+    {
+      "title": "'Frozen 3' gây tranh cãi",
+      "image": "https://i.ytimg.com/vi/80P05sHXMJo/maxresdefault.jpg",
+      "description": "Disney tiết lộ phần 3 của Frozen sẽ mang đến những bất ngờ thú vị và câu chuyện đầy cảm xúc."
+    }
+  ]
+}

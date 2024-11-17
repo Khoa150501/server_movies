@@ -28,6 +28,12 @@ const getCinemas= () => {
   const data = fs.readFileSync(filePath, 'utf-8');
   return JSON.parse(data);
 };
+//
+const getProducts= () => {
+  const filePath = path.join(__dirname, 'data', 'product.json');
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data);
+};
 // API GET - Lấy danh sách phim
 app.get('/movies', (req, res) => {
   const movies = getMovies();
@@ -41,6 +47,11 @@ app.get('/news', (req, res) => {
 //
 app.get('/cinemas', (req, res) => {
   const cinemas = getCinemas();
+  res.json(cinemas);
+});
+//
+app.get('/products', (req, res) => {
+  const cinemas = getProducts();
   res.json(cinemas);
 });
 

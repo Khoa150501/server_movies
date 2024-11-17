@@ -1,0 +1,33 @@
+ [
+    {
+      "id": "1",
+      "title": "MY COMBO",
+      "price" : 89000,
+      "description": "1 bắp 1 nước siêu lớn",
+      "imageUrl": "https://reviewphongtap.com/wp-content/uploads/2022/12/gia-bap-nuoc-cgv-3.png"
+    },
+  {
+      "id": "2",
+      "title": "PREDIUM CGV COMBO",
+      "price" : 199000,
+      "description": "1 bắp 1 nước + 1 snack(tùy chọn)",
+      "imageUrl": "https://reviewphongtap.com/wp-content/uploads/2022/12/gia-bap-nuoc-cgv-3.png"
+
+    },
+  {
+      "id": "3",
+      "title": "CGV COMBO",
+      "price" : 89000,
+      "description": "1 bắp 1 nước siêu lớn",
+      "imageUrl": "https://reviewphongtap.com/wp-content/uploads/2022/12/gia-bap-nuoc-cgv-3.png"
+
+    },
+  {
+      "id": "4",
+      "title": "MY COMBO",
+      "price" : 89000,
+      "description": "1 bắp 2 nước siêu lớn",
+      "imageUrl": "https://reviewphongtap.com/wp-content/uploads/2022/12/gia-bap-nuoc-cgv-3.png"
+
+    }
+  ]

@@ -16,11 +16,32 @@ const getMovies = () => {
   const data = fs.readFileSync(filePath, 'utf-8');
   return JSON.parse(data);
 };
-
+//
+const getNews = () => {
+  const filePath = path.join(__dirname, 'data', 'news.json');
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data);
+};
+//
+const getCinemas= () => {
+  const filePath = path.join(__dirname, 'data', 'cinemas.json');
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data);
+};
 // API GET - Lấy danh sách phim
 app.get('/movies', (req, res) => {
   const movies = getMovies();
   res.json(movies);
+});
+//
+app.get('/news', (req, res) => {
+  const movies = getNews();
+  res.json(movies);
+});
+//
+app.get('/cinemas', (req, res) => {
+  const cinemas = getCinemas();
+  res.json(cinemas);
 });
 
 // API GET - Lấy chi tiết phim theo ID

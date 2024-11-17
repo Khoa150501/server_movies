@@ -6,6 +6,7 @@
     "duration": "1 giờ 59 phút",
     "youtubeVideoId": "Bz7BKukEoaA",
     "priceTicket": "99.000",
+    "status": "now_showing",
     "description": "Và trở thành Vua Hải Tặc hay không? Mời các bạn cùng đón xem nhé!"
   },
   {
@@ -15,6 +16,7 @@
     "duration": "3 giờ 1 phút",
     "youtubeVideoId": "Bz7BKukEoaA",
     "priceTicket": "99.000",
+    "status": "now_showing",
     "description": "Nobita được mua cho một con bọ cánh cứng, Nobita đem nó đi đấu với Jaian nhưng lại bị thua nên Nobita nhờ Doraemon bắt cho mình một con khác để phục thù,trong lúc dò tìm bọ cánh cứng cho Nobita không may lại bắt dính loài khổng điểu cổ đại. Lo sợ khi đưa nó về thế giới cổ đại cũng sẽ diệt vong nên nhóm Doraemon đưa nó đến một nơi có tên là đảo Beregamondo. Ở đây nhóm bạn đã gặp người quản lý đảo, cô tiến sĩ Kelly. Do sơ suất nên Doraemon bị con khổng điểu lấy mất gậy lãng quên."
   },
   {
@@ -24,6 +26,7 @@
     "duration": "24 phút mỗi tập",
     "youtubeVideoId": "Wl7ay1Z5mkY",
     "priceTicket": "99.000",
+    "status": "now_showing",
     "description": "Sau cuộc chạm trán với mẹ mình trong trận chiến với Cửu Vĩ, Naruto Uzumaki đã trở lại Làng Lá. Cậu và những người còn lại trong Konoha 11, do Kakashi Hatake và Might Guy chỉ huy, đã đánh đuổi một nhóm White Zetsu đóng giả làm thành viên Akatsuki đã ngã xuống . Khi họ trở về, cha mẹ của mọi người quyết định giới thiệu con cái của họ để trở thành jonin, ngoại trừ Naruto vì cha mẹ cậu đã mất, và Sakura Haruno , người có cha mẹ là Kizashi và Mebuki phủ nhận khả năng của cô. Naruto bắt đầu cảm thấy chán nản vì không có cha mẹ khi lớn lên, khiến cậu nổi giận với Iruka Umino . Sakura, sau khi cãi nhau với Mebuki, sau đó sử dụng Naruto làm cái cớ để tránh cô. Chỉ còn lại một mình ở công viên, cả hai bị Tobi (lúc này họ tin rằng đó là Madara Uchiha ) đối mặt, kẻ tiến hành làm họ mù bằng một luồng sáng lớn trước khi bỏ trốn."
   },
   {
@@ -33,6 +36,7 @@
     "duration": "25 phút mỗi tập",
     "youtubeVideoId": "MGRm4IzK1SQ",
     "priceTicket": "99.000",
+    "status": "now_showing",
     "description": "Con người chống lại những Titan khổng lồ để giành lấy tự do và sự sống còn."
   },
   {
@@ -42,6 +46,7 @@
     "duration": "24 phút mỗi tập",
     "youtubeVideoId": "p-8DsU1n8Ys",
     "priceTicket": "99.000",
+    "status": "now_showing",
     "description": "Câu chuyện xoay quanh Midoriya Izuku và hành trình trở thành anh hùng vĩ đại nhất thế giới."
   },
   {
@@ -51,6 +56,47 @@
     "duration": "23 phút mỗi tập",
     "youtubeVideoId": "U8Lxup5t8FM",
     "priceTicket": "99.000",
+    "status": "now_showing",
     "description": "Hành trình của Tanjiro Kamado trong việc tiêu diệt quỷ và cứu em gái."
+  },
+  {
+    "id": 7,
+    "title": "Your Name",
+    "imageUrl": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474086YmQ/your-name-2016_105056083.jpg",
+    "duration": "2 tiếng 30 phút",
+    "youtubeVideoId": "U8Lxup5t8FM",
+    "priceTicket": "99.000",
+    "description": "Bộ phim kể về câu chuyện đổi đời bí ẩn giữa Mitsuha - nữ sinh sống ở thị trấn nhỏ và Taki - chàng nam sinh tại Tokyo. Hoán đổi cơ thể hàng ngày mang đến những trải nghiệm mới lạ và những bí mật đằng sau cuộc sống.",
+    "status": "comingSoon"
+  },
+  {
+    "id": 8,
+    "title": "Hotaru no Haka – Mộ đom đóm",
+    "imageUrl": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474086rCF/hotaru-no-haka-mo-dom-dom-1988_105318964.jpg",
+    "duration": "2 tiếng 10 phút",
+    "youtubeVideoId": "U8Lxup5t8FM",
+    "priceTicket": "99.000",
+    "description": "Phim diễn ra cuối Chiến tranh thế giới thứ 2 tại Nhật Bản, kể về tình anh em của Seita và Setsuko. Mất mẹ do cuộc tấn công, hai anh em phải đối mặt với nạn đói và sự thờ ơ đến tàn nhẫn từ họ hàng ruột thịt.",
+    "status": "comingSoon"
+  },
+  {
+    "id": 9,
+    "title": "Ngọn đồi hoa hồng anh",
+    "imageUrl": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474086yqT/from-up-on-poppy-hill-ngon-doi-hoa-hong-anh-2011_105440240.jpg",
+    "duration": "2 tiếng 10 phút",
+    "youtubeVideoId": "U8Lxup5t8FM",
+    "priceTicket": "99.000",
+    "description": "Matsuzaki Umi, sống trên ngọn đồi gần biển, tìm kiếm kỷ niệm cha trong việc chống lại việc phá dỡ tòa nhà lịch sử của câu lạc bộ văn hóa. Trong hành trình đó, cô gặp Shin, một tình yêu đậm sâu mặc dù có những bí mật về quá khứ.",
+    "status": "comingSoon"
+  },
+    {
+    "id": 10,
+    "title": "Stand By Me Doraemon – Đôi bạn thân",
+    "imageUrl": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474086UDs/stand-by-me-doraemon-doi-ban-than-2014_105159347.jpg",
+    "duration": "2 tiếng 10 phút",
+    "youtubeVideoId": "U8Lxup5t8FM",
+    "priceTicket": "99.000",
+    "description": "Stand by Me Doraemon là hành trình tri ân tuổi thơ với chú mèo máy và cậu bạn Nobita. Câu chuyện sẽ đưa khán giả đi qua những kí ức ngọt ngào và cảm động về tình bạn đáng nhớ.",
+    "status": "comingSoon"
   }
 ]
